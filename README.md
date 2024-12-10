@@ -1,5 +1,6 @@
 # FileTypeSorting-qzl
 一个针对文件格式对文件进行分类的程序
+
 执行程序会将程序所在文件夹位置下的文件进行分类，效果如下
 
 ![Snipaste_2024-12-10_21-29-24](https://github.com/user-attachments/assets/9db5a96e-fb18-4919-9b09-4cf7e46da5cc)
