@@ -7,3 +7,5 @@
 ![Snipaste_2024-12-10_21-29-38](https://github.com/user-attachments/assets/61943b6e-f13f-47df-9f0d-dfbde42abbf2)
 
 程序由python实现，源码在FileTypeSorting-qzl.py文件，通过执行 pyinstaller --onefile --noconsole FileTypeSorting-qzl.py 命令可以打包成exe文件，或者你可以直接下载我的FileTypeSorting-qzl.exe文件去使用
+
+如果本项目很受欢迎我将会推出更为全面的文件整理工具而不仅限于文件格式的分类
